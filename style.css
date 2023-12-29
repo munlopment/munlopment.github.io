@@ -149,7 +149,7 @@ body {
     .img-container{
         border: none;
         border-radius: 0;
-        margin-left:-110px;
+        margin-left:-2pc;
         height: 24pc;
         width: 18pc;
         transform: translate(0, -3pc);
