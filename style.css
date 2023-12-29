@@ -149,13 +149,13 @@ body {
     .img-container{
         border: none;
         border-radius: 0;
-        margin-left:-2pc;
+        margin-left:-1pc;
         height: 24pc;
         width: 18pc;
         transform: translate(0, -3pc);
     }
     .picture img {
-        transform: translate(60%, 7%);
+        transform: translate(58%, 7%);
         width: 190px;
         border-radius: 0;
     }
